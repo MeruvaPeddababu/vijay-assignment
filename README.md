@@ -1,4 +1,4 @@
-# vijay-assignment
+
 # Ticket Classification and Analysis Project
 
 This project focuses on processing, analyzing, and modeling customer support ticket data. The primary goals are to clean and preprocess textual ticket data, engineer relevant features, and train machine learning models to predict the `issue_type` and `urgency_level` of tickets.
